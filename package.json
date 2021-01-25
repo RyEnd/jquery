@@ -52,7 +52,7 @@
     "qunit-assert-step": "1.0.3",
     "qunitjs": "1.23.1",
     "requirejs": "2.2.0",
-    "sinon": "1.17.3",
+    "sinon": "9.2.4",
     "sizzle": "2.3.0",
     "strip-json-comments": "2.0.1",
     "testswarm": "1.1.0"
